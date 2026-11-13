@@ -1,0 +1,4 @@
+old_ticker,new_ticker,sector,pool_size,reason,changed_at
+VMRK,ARE,Real Estate,17,Yahoo name (AvalonBay Communities) did not match Wikipedia name (Vivmark Residential),2026-10-31 15:11:30
+SKYD,CMCSA,Communication Services,3,"Name matched, but price history looked like a different older company (suspected, not verified); replaced to be safe",2026-10-31 15:11:30
+VTRS,INCY,Health Care,40,Viatris formed by merger on 2020-11-16 (first VTRS trading day 2020-11-17); Yahoo history before that belongs to a different company,2026-11-01 10:56:17

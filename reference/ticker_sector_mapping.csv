@@ -1,0 +1,100 @@
+ticker,company,sector
+CHTR,Charter Communications,Communication Services
+DIS,Walt Disney Company (The),Communication Services
+GOOGL,Alphabet Inc. (Class A),Communication Services
+META,Meta Platforms,Communication Services
+NFLX,Netflix,Communication Services
+SKYD,Skydance,Communication Services
+T,AT&T,Communication Services
+TTWO,Take-Two Interactive,Communication Services
+VZ,Verizon,Communication Services
+DRI,Darden Restaurants,Consumer Discretionary
+EXPE,Expedia Group,Consumer Discretionary
+GM,General Motors,Consumer Discretionary
+HD,Home Depot (The),Consumer Discretionary
+ORLY,O'Reilly Automotive,Consumer Discretionary
+PHM,PulteGroup,Consumer Discretionary
+ROST,Ross Stores,Consumer Discretionary
+SBUX,Starbucks,Consumer Discretionary
+TJX,TJX Companies,Consumer Discretionary
+CL,Colgate-Palmolive,Consumer Staples
+DLTR,Dollar Tree,Consumer Staples
+EL,Estée Lauder Companies (The),Consumer Staples
+KO,Coca-Cola Company (The),Consumer Staples
+KR,Kroger,Consumer Staples
+MKC,McCormick & Company,Consumer Staples
+PG,Procter & Gamble,Consumer Staples
+SYY,Sysco,Consumer Staples
+TSN,Tyson Foods,Consumer Staples
+APA,APA Corporation,Energy
+CVX,Chevron Corporation,Energy
+DVN,Devon Energy,Energy
+FANG,Diamondback Energy,Energy
+MPC,Marathon Petroleum,Energy
+OKE,Oneok,Energy
+SLB,Schlumberger,Energy
+VLO,Valero Energy,Energy
+WMB,Williams Companies,Energy
+AIG,American International Group,Financials
+ALL,Allstate,Financials
+AON,Aon plc,Financials
+CFG,Citizens Financial Group,Financials
+CME,CME Group,Financials
+GPN,Global Payments,Financials
+IVZ,Invesco,Financials
+PFG,Principal Financial Group,Financials
+SPGI,S&P Global,Financials
+ALGN,Align Technology,Health Care
+COR,Cencora,Health Care
+CVS,CVS Health,Health Care
+DGX,Quest Diagnostics,Health Care
+DHR,Danaher Corporation,Health Care
+DVA,DaVita,Health Care
+EW,Edwards Lifesciences,Health Care
+VTRS,Viatris,Health Care
+ZBH,Zimmer Biomet,Health Care
+BR,Broadridge Financial Solutions,Industrials
+CHRW,C.H. Robinson,Industrials
+CTAS,Cintas,Industrials
+DE,Deere & Company,Industrials
+EMR,Emerson Electric,Industrials
+GD,General Dynamics,Industrials
+J,Jacobs Solutions,Industrials
+JBHT,J.B. Hunt,Industrials
+PAYX,Paychex,Industrials
+ADI,Analog Devices,Information Technology
+AKAM,Akamai Technologies,Information Technology
+AMAT,Applied Materials,Information Technology
+CTSH,Cognizant,Information Technology
+GEN,Gen Digital,Information Technology
+HPQ,HP Inc.,Information Technology
+IBM,IBM,Information Technology
+NTAP,NetApp,Information Technology
+QCOM,Qualcomm,Information Technology
+APD,Air Products,Materials
+CF,CF Industries,Materials
+FCX,Freeport-McMoRan,Materials
+LIN,Linde plc,Materials
+LYB,LyondellBasell,Materials
+MLM,Martin Marietta Materials,Materials
+PKG,Packaging Corporation of America,Materials
+PPG,PPG Industries,Materials
+SHW,Sherwin-Williams,Materials
+AMT,American Tower,Real Estate
+CBRE,CBRE Group,Real Estate
+CCI,Crown Castle,Real Estate
+EXR,Extra Space Storage,Real Estate
+FRT,Federal Realty Investment Trust,Real Estate
+IRM,Iron Mountain,Real Estate
+O,Realty Income,Real Estate
+VMRK,Vivmark Residential,Real Estate
+WELL,Welltower,Real Estate
+CMS,CMS Energy,Utilities
+DTE,DTE Energy,Utilities
+DUK,Duke Energy,Utilities
+ED,Consolidated Edison,Utilities
+LNT,Alliant Energy,Utilities
+PEG,Public Service Enterprise Group,Utilities
+PNW,Pinnacle West Capital,Utilities
+SO,Southern Company,Utilities
+WEC,WEC Energy Group,Utilities
